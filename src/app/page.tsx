@@ -453,7 +453,7 @@ export default function Home() {
         </div>
 
         <div className="mx-auto mt-12 max-w-7xl border-t border-white/10 pt-7 text-center text-xs text-gray-600">
-          © {new Date().getFullYear()} Nexora Social Club. All rights reserved.
+          © 2026 Nexora Social Club. All rights reserved.
         </div>
       </footer>
 
